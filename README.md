@@ -29,3 +29,6 @@
 ```apt remove os-prober -y```
 - Reboot the VPS one last time to boot into the Proxmox VE kernel.
 ```reboot```
+
+For More necessary codes that needed for Hosting, Join Our Discord Server !
+- https://discord.gg/Uu3XjjJS6h
